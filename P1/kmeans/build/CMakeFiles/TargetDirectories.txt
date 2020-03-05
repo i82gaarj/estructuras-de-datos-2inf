@@ -1,0 +1,4 @@
+/home/i82gaarj/Desktop/i82gaarj/kmeans/build/CMakeFiles/rebuild_cache.dir
+/home/i82gaarj/Desktop/i82gaarj/kmeans/build/CMakeFiles/test_pattern.dir
+/home/i82gaarj/Desktop/i82gaarj/kmeans/build/CMakeFiles/edit_cache.dir
+/home/i82gaarj/Desktop/i82gaarj/kmeans/build/CMakeFiles/test_kmeans.dir
