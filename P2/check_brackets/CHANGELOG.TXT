@@ -1,0 +1,6 @@
+1.0
+- Start version.
+
+1.1
+- Improved run_test.hs
+

@@ -1,0 +1,4 @@
+/home/i82gaarj/Desktop/i82gaarj/check_brackets/build/CMakeFiles/rebuild_cache.dir
+/home/i82gaarj/Desktop/i82gaarj/check_brackets/build/CMakeFiles/edit_cache.dir
+/home/i82gaarj/Desktop/i82gaarj/check_brackets/build/CMakeFiles/test_stack.dir
+/home/i82gaarj/Desktop/i82gaarj/check_brackets/build/CMakeFiles/test_check_brackets.dir

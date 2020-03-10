@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/i82gaarj/Desktop/i82gaarj/check_brackets/stack.hpp
+cassert
+-
+vector
+-
+memory
+-
+
+/home/i82gaarj/Desktop/i82gaarj/check_brackets/test_stack.cpp
+exception
+-
+iostream
+-
+fstream
+-
+string
+-
+stack.hpp
+/home/i82gaarj/Desktop/i82gaarj/check_brackets/stack.hpp
+
