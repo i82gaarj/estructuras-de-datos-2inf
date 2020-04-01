@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/i82gaarj/Desktop/binary_tree/btree.hpp
+cassert
+-
+exception
+-
+memory
+-
+iostream
+-
+
+/home/i82gaarj/Desktop/binary_tree/btree_utils.hpp
+cassert
+-
+exception
+-
+memory
+-
+iostream
+-
+queue
+-
+btree.hpp
+/home/i82gaarj/Desktop/binary_tree/btree.hpp
+
+/home/i82gaarj/Desktop/binary_tree/test_traversals.cpp
+iostream
+-
+fstream
+-
+sstream
+-
+string
+-
+exception
+-
+btree_utils.hpp
+/home/i82gaarj/Desktop/binary_tree/btree_utils.hpp
+
