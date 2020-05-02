@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/i82gaarj/Desktop/alphabet_soup/alphabet_soup_solver.cpp
+cassert
+-
+alphabet_soup_solver.hpp
+/home/i82gaarj/Desktop/alphabet_soup/alphabet_soup_solver.hpp
+trie.hpp
+/home/i82gaarj/Desktop/alphabet_soup/trie.hpp
+
+/home/i82gaarj/Desktop/alphabet_soup/alphabet_soup_solver.hpp
+cassert
+-
+iostream
+-
+string
+-
+vector
+-
+stack
+-
+utility
+-
+
+/home/i82gaarj/Desktop/alphabet_soup/trie.hpp
+cassert
+-
+memory
+-
+string
+-
+vector
+-
+map
+-
+

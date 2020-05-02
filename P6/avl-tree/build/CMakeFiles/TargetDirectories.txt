@@ -1,0 +1,4 @@
+/home/i82gaarj/Desktop/i82gaarj/avl-tree/build/CMakeFiles/rebuild_cache.dir
+/home/i82gaarj/Desktop/i82gaarj/avl-tree/build/CMakeFiles/edit_cache.dir
+/home/i82gaarj/Desktop/i82gaarj/avl-tree/build/CMakeFiles/test_bstree.dir
+/home/i82gaarj/Desktop/i82gaarj/avl-tree/build/CMakeFiles/test_avltree.dir

@@ -1,0 +1,1 @@
+/usr/local/opt/gcc-5.3.0-32/bin/c++  -std=c++11 -Wall  -rdynamic CMakeFiles/test_trie.dir/test_trie.cpp.o CMakeFiles/test_trie.dir/trie.cpp.o  -o test_trie 
