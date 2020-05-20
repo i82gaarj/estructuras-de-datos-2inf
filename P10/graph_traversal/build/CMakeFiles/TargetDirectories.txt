@@ -1,0 +1,4 @@
+/home/i82gaarj/Desktop/graph_traversal/graph_traversal/build/CMakeFiles/rebuild_cache.dir
+/home/i82gaarj/Desktop/graph_traversal/graph_traversal/build/CMakeFiles/test_create_graph.dir
+/home/i82gaarj/Desktop/graph_traversal/graph_traversal/build/CMakeFiles/edit_cache.dir
+/home/i82gaarj/Desktop/graph_traversal/graph_traversal/build/CMakeFiles/test_traversals.dir

@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/i82gaarj/Desktop/graph_traversal/graph_traversal/city.cpp
+cmath
+-
+city.hpp
+/home/i82gaarj/Desktop/graph_traversal/graph_traversal/city.hpp
+
+/home/i82gaarj/Desktop/graph_traversal/graph_traversal/city.hpp
+exception
+-
+iostream
+-
+string
+-
+graph_utils.hpp
+/home/i82gaarj/Desktop/graph_traversal/graph_traversal/graph_utils.hpp
+
+/home/i82gaarj/Desktop/graph_traversal/graph_traversal/graph.hpp
+cassert
+-
+cstdlib
+-
+memory
+-
+vector
+-
+limits
+-
+
+/home/i82gaarj/Desktop/graph_traversal/graph_traversal/graph_utils.hpp
+iostream
+-
+memory
+-
+string
+-
+graph.hpp
+/home/i82gaarj/Desktop/graph_traversal/graph_traversal/graph.hpp
+

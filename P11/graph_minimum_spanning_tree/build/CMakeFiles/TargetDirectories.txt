@@ -1,0 +1,4 @@
+/home/i82gaarj/Desktop/graph_minimum_spanning_tree/graph_minimum_spanning_tree/build/CMakeFiles/rebuild_cache.dir
+/home/i82gaarj/Desktop/graph_minimum_spanning_tree/graph_minimum_spanning_tree/build/CMakeFiles/edit_cache.dir
+/home/i82gaarj/Desktop/graph_minimum_spanning_tree/graph_minimum_spanning_tree/build/CMakeFiles/test_prim.dir
+/home/i82gaarj/Desktop/graph_minimum_spanning_tree/graph_minimum_spanning_tree/build/CMakeFiles/test_kruskal.dir
